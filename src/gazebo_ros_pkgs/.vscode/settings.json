@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zioud/gazebo_ws/devel/lib/python3.10/site-packages",
+        "/home/zioud/catkin_ws/devel/lib/python3.10/site-packages",
+        "/home/zioud/crazyflie/crazyflie_ros/devel/lib/python3.10/site-packages",
+        "/home/zioud/ros_catkin_ws/install_isolated/lib/python3.10/site-packages"
+    ]
+}

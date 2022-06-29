@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/zioud/gazebo_ws/devel/include/**",
+        "/home/zioud/catkin_ws/devel/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/devel/include/**",
+        "/home/zioud/ros_catkin_ws/install_isolated/include/**",
+        "/home/zioud/catkin_ws/src/clover/include/**",
+        "/home/zioud/gazebo_ws/src/control_toolbox/include/**",
+        "/home/zioud/gazebo_ws/src/ros_control/controller_interface/include/**",
+        "/home/zioud/gazebo_ws/src/ros_control/controller_manager/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/crazyflie_cpp/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/ct_core/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/ct_models/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/ct_optcon/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/ct_rbd/include/**",
+        "/home/zioud/catkin_ws/src/dynamixel_sdk/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/eskalman/include/**",
+        "/home/zioud/gazebo_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/zioud/gazebo_ws/src/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/zioud/gazebo_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/zioud/gazebo_ws/src/ros_control/hardware_interface/include/**",
+        "/home/zioud/gazebo_ws/src/ros_control/joint_limits_interface/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/kindr/include/**",
+        "/home/zioud/gazebo_ws/src/mavros/libmavconn/include/**",
+        "/home/zioud/gazebo_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/zioud/gazebo_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/zioud/gazebo_ws/src/sitl_gazebo/include/**",
+        "/home/zioud/gazebo_ws/src/mavros/mavros/include/**",
+        "/home/zioud/gazebo_ws/src/mavros/mavros_msgs/include/**",
+        "/home/zioud/catkin_ws/src/mocap_optitrack/include/**",
+        "/home/zioud/crazyflie/crazyflie_ros/src/mycrazyflie/include/**",
+        "/home/zioud/catkin_ws/src/optical_flow/include/**",
+        "/home/zioud/gazebo_ws/src/realtime_tools/include/**",
+        "/home/zioud/gazebo_ws/src/mavros/test_mavros/include/**",
+        "/home/zioud/gazebo_ws/src/ros_control/transmission_interface/include/**",
+        "/home/zioud/catkin_ws/src/xdrone/include/**",
+        "/home/zioud/catkin_ws/src/xdrone_controller/include/**",
+        "/home/zioud/gazebo_ws/src/xdrone_description/include/**",
+        "/home/zioud/catkin_ws/src/xdrone_gui/include/**",
+        "/home/zioud/catkin_ws/src/xdrone_joystick_control/include/**",
+        "/home/zioud/catkin_ws/src/xdrone_joystick_position_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
