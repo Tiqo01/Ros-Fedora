@@ -26,7 +26,7 @@ Download the source file with a git or directly as you want it's not my business
 Put your src in the catkin workspace.
 
 ```
-git clone https://gitlab.xlim.fr/zioud/the-ros-fedora-project.git
+git clone https://github.com/Tiqo01/Ros-Fedora.git
 ```
 
 # Resolving Dependencies
