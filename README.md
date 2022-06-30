@@ -1,4 +1,4 @@
-# The Ros Fedora Project
+# Ros Fedora
 # Installing Build Dependencies/Tools 
 Run to install the compiler tools: 
 ```
